@@ -6,6 +6,7 @@ I present my new project, (BEN2) > Benin meme 多 a bot that is in > development
 
 ## Prefix Commands
 - '<meme:' Allows you to view various memes
+- '<pets:' Allows you to view various pets
 - '<help :' This commands just shows you what commands bot have
 - '<Ping :' Brings up the latency of the bot
 
