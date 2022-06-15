@@ -16,16 +16,11 @@
 - **general** : Just have fun with this one
       
 ### Links
-- Github Page: https://github.com.com/buuyaxd
+- Github Page: https://github.com.com/buuyaxd/discordbot-ben2/
 - Support Server: https://discord.gg/nmQqyaDrrU
-
-### Update Log - Version 2.5.7
-- Added *>general*
-- Updated all commands
-- Minor embed changes
-- Major bug fixes
+- Source Code : https://autocode.com/BuuyaXD/apps/discordbot-ben2/
       
 ### Thank You!
-- If you have any questions or feedback, please join my community Discord from the Links section above. You can also follow me on Twitter, @BuuyaXD.
+- If you have any questions or feedback, please join my community Discord from the Links section above. You can also follow me on Twitter, <ahref="www.twitter.com.buuyaxd">@BuuyaXD.</a>
     
 ##### Made with 🧡 by Buuya
