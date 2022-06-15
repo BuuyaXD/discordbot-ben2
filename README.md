@@ -1,3 +1,4 @@
+<img src="https://github.com/BuuyaXD/discordbot-ben2/blob/main/banner.png">
 ## Benin
 
 #### Hi 👋, I'm Ben2 | Benin      
@@ -21,6 +22,6 @@
 - Source Code : https://autocode.com/BuuyaXD/apps/discordbot-ben2/
       
 ### Thank You!
-- If you have any questions or feedback, please join my community Discord from the Links section above. You can also follow me on Twitter, <ahref="www.twitter.com.buuyaxd">@BuuyaXD.</a>
+- If you have any questions or feedback, please join my community Discord from the Links section above. You can also follow me on Twitter, <a href="www.twitter.com.buuyaxd">@BuuyaXD</a>.
     
 ##### Made with 🧡 by Buuya
