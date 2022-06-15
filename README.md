@@ -22,4 +22,4 @@
 ### Thank You!
 - If you have any questions or feedback, please join my community Discord from the Links section above. You can also follow me on Twitter, @BuuyaXD.
     
-## Made with 🧡 by Buuya
+##### Made with 🧡 by Buuya
