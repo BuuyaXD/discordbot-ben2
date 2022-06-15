@@ -18,6 +18,12 @@
 ### Links
 - Github Page: https://github.com.com/buuyaxd
 - Support Server: https://discord.gg/nmQqyaDrrU
+
+### Update Log - Version 2.5.7
+- Added *>general*
+- Updated all commands
+- Minor embed changes
+- Major bug fixe
       
 ### Thank You!
 - If you have any questions or feedback, please join my community Discord from the Links section above. You can also follow me on Twitter, @BuuyaXD.
