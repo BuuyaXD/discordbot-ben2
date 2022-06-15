@@ -23,7 +23,7 @@
 - Added *>general*
 - Updated all commands
 - Minor embed changes
-- Major bug fixe
+- Major bug fixes
       
 ### Thank You!
 - If you have any questions or feedback, please join my community Discord from the Links section above. You can also follow me on Twitter, @BuuyaXD.
