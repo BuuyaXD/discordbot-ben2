@@ -1,7 +1,6 @@
 <img src="https://github.com/BuuyaXD/discordbot-ben2/blob/main/banner.png">
-## Benin
 
-#### Hi 👋, I'm Ben2 | Benin      
+<img src="https://github.com/BuuyaXD/discordbot-ben2/blob/main/thumbnail.png"> #### Hi 👋, I'm Ben2 | Benin      
 #### (▀̿Ĺ̯▀̿ ̿) - Looking for a quality Meme bot?
 
 ### Prefix
